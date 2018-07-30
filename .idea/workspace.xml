@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d93c166c-faa5-41a4-905b-d49be1b15ea5" name="Default" comment="" />
+    <list default="true" id="d93c166c-faa5-41a4-905b-d49be1b15ea5" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fwpd.iml" beforeDir="false" afterPath="$PROJECT_DIR$/fwpd.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.clj" beforeDir="false" afterPath="$PROJECT_DIR$/project.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/fwpd/core.clj" beforeDir="false" afterPath="$PROJECT_DIR$/src/fwpd/core.clj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/suspects.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/fwpd/core_test.clj" beforeDir="false" afterPath="$PROJECT_DIR$/test/fwpd/core_test.clj" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,17 +18,46 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="22" column="43" selection-start-line="22" selection-start-column="43" selection-end-line="22" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <splitter split-orientation="horizontal" split-proportion="0.3941019">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="core.clj" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="615">
+                  <caret line="41" selection-start-line="41" selection-end-line="41" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="core_test.clj" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/test/fwpd/core_test.clj">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="project.clj" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/project.clj">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="75">
+                  <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="modificationStamps">
@@ -33,6 +70,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
+        <option value="$PROJECT_DIR$/project.clj" />
+        <option value="$PROJECT_DIR$/test/fwpd/core_test.clj" />
         <option value="$PROJECT_DIR$/src/fwpd/core.clj" />
       </list>
     </option>
@@ -43,34 +82,35 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="y" value="-1" />
-    <option name="width" value="2560" />
-    <option name="height" value="1414" />
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
   </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="2560" />
+    <option name="height" value="1440" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
       <pane id="AndroidView" />
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="fwpd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fwpd" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fwpd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fwpd" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="fwpd" type="b2602c69:ProjectViewProjectNode" />
-              <item name="fwpd" type="462c0819:PsiDirectoryNode" />
+              <item name="clojure-noob" type="b2602c69:ProjectViewProjectNode" />
+              <item name="clojure-noob" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="fwpd" type="462c0819:PsiDirectoryNode" />
             </path>
@@ -78,6 +118,8 @@
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -87,15 +129,25 @@
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.sorted" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="keymap&#9;ACTION&#9;Help.KeymapReference" />
+    <property name="SearchEverywhereHistoryKey" value="vsplit&#9;ACTION&#9;SplitVertically&#10;keymap&#9;ACTION&#9;Help.KeymapReference" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/bin/node" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="Clojure.TestIntegration" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.repository.indices" />
   </component>
-  <component name="ReplState" timestamp="1525634122685">{:repl-history {:ide [], :local [{:command &quot;(doc slurp)&quot;, :offset 11, :ns &quot;fwpd.core&quot;} {:command &quot;(slurp filename)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(+ 2 2)&quot;, :offset 7, :ns &quot;fwpd.core&quot;} {:command &quot;(first mapify (parse (slurp filename)))&quot;, :offset 39, :ns &quot;fwpd.core&quot;} {:command &quot;(first (mapify (parse (slurp filename))))&quot;, :offset 41, :ns &quot;fwpd.core&quot;} {:command &quot;(parse filename)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(parse 'filename)&quot;, :offset 17, :ns &quot;fwpd.core&quot;} {:command &quot;(slurp (parse filename))&quot;, :offset 24, :ns &quot;fwpd.core&quot;} {:command &quot;(mapify (parse (slurp filename)))&quot;, :offset 33, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector vamp-keys [\&quot;Ed\&quot; \&quot;\&quot;])&quot;, :offset 32, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector [1 2 3] [4 5 6])&quot;, :offset 28, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector [1 2 3] [4 5 6] [7 8 9])&quot;, :offset 36, :ns &quot;fwpd.core&quot;} {:command &quot;(map + [1 2 3] [4 5 6] [7 8 9])&quot;, :offset 31, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector vamp-keys [\&quot;Ed\&quot; \&quot;10\&quot;])&quot;, :offset 34, :ns &quot;fwpd.core&quot;} {:command &quot;(parse (slurp filename))&quot;, :offset 24, :ns &quot;fwpd.core&quot;} {:command &quot;(get conversions \&quot;ed\&quot;)&quot;, :offset 22, :ns &quot;fwpd.core&quot;} {:command &quot;(get conversions :name)&quot;, :offset 23, :ns &quot;fwpd.core&quot;} {:command &quot;((get conversions :name) \&quot;ed\&quot;)&quot;, :offset 30, :ns &quot;fwpd.core&quot;} {:command &quot;((get conversions :glitter-index) \&quot;3\&quot;)&quot;, :offset 38, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        [1 2 3])&quot;, :offset 99, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        [:a 1 :b 2 :c 3])&quot;, :offset 108, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (+ acc v)(println acc k v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 98, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (+ acc v)\n          (println acc k v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 109, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 109, :ns &quot;fwpd.core&quot;} {:command &quot;(help)&quot;, :offset 6, :ns &quot;fwpd.core&quot;}], :remote []}}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/src/fwpd" />
+      <recent name="$PROJECT_DIR$/test/fwpd" />
+    </key>
+  </component>
+  <component name="ReplState" timestamp="1525876908347">{:repl-history {:ide [], :local [{:command &quot;(doc slurp)&quot;, :offset 11, :ns &quot;fwpd.core&quot;} {:command &quot;(slurp filename)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(first mapify (parse (slurp filename)))&quot;, :offset 39, :ns &quot;fwpd.core&quot;} {:command &quot;(parse filename)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(parse 'filename)&quot;, :offset 17, :ns &quot;fwpd.core&quot;} {:command &quot;(slurp (parse filename))&quot;, :offset 24, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector vamp-keys [\&quot;Ed\&quot; \&quot;\&quot;])&quot;, :offset 32, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector [1 2 3] [4 5 6])&quot;, :offset 28, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector [1 2 3] [4 5 6] [7 8 9])&quot;, :offset 36, :ns &quot;fwpd.core&quot;} {:command &quot;(map + [1 2 3] [4 5 6] [7 8 9])&quot;, :offset 31, :ns &quot;fwpd.core&quot;} {:command &quot;(map vector vamp-keys [\&quot;Ed\&quot; \&quot;10\&quot;])&quot;, :offset 34, :ns &quot;fwpd.core&quot;} {:command &quot;(parse (slurp filename))&quot;, :offset 24, :ns &quot;fwpd.core&quot;} {:command &quot;(get conversions \&quot;ed\&quot;)&quot;, :offset 22, :ns &quot;fwpd.core&quot;} {:command &quot;(get conversions :name)&quot;, :offset 23, :ns &quot;fwpd.core&quot;} {:command &quot;((get conversions :name) \&quot;ed\&quot;)&quot;, :offset 30, :ns &quot;fwpd.core&quot;} {:command &quot;((get conversions :glitter-index) \&quot;3\&quot;)&quot;, :offset 38, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        [1 2 3])&quot;, :offset 99, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        [:a 1 :b 2 :c 3])&quot;, :offset 108, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (+ acc v)(println acc k v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 98, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (+ acc v)\n          (println acc k v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 109, :ns &quot;fwpd.core&quot;} {:command &quot;(reduce (fn [acc [k v]]\n          (println acc k v)\n          (+ acc v))\n        0\n        { :a 1 :b 2 :c 3})&quot;, :offset 109, :ns &quot;fwpd.core&quot;} {:command &quot;(help)&quot;, :offset 6, :ns &quot;fwpd.core&quot;} {:command &quot;(neg? 3)&quot;, :offset 8, :ns &quot;fwpd.core&quot;} {:command &quot;(first (mapify (parse (slurp filename))))&quot;, :offset 41, :ns &quot;fwpd.core&quot;} {:command &quot;(apply str \&quot;xxx\&quot;)&quot;, :offset 17, :ns &quot;fwpd.core&quot;} {:command &quot;(str \&quot;xxx\&quot;)&quot;, :offset 11, :ns &quot;fwpd.core&quot;} {:command &quot;(fn \&quot;xxx\&quot;)&quot;, :offset 10, :ns &quot;fwpd.core&quot;} {:command &quot;(fn [] \&quot;x\&quot;)&quot;, :offset 11, :ns &quot;fwpd.core&quot;} {:command &quot;#(fn [] \&quot;x\&quot;)&quot;, :offset 12, :ns &quot;fwpd.core&quot;} {:command &quot; (( fn [] \&quot;x\&quot;))&quot;, :offset 15, :ns &quot;fwpd.core&quot;} {:command &quot;(mapify (parse (slurp filename)))&quot;, :offset 33, :ns &quot;fwpd.core&quot;} {:command &quot;(suspects assoc suspects {:name \&quot;Mark\&quot; :glitter-index 0})&quot;, :offset 57, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc suspects  {:name \&quot;Mark\&quot; :glitter-index 0})&quot;, :offset 49, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc-in suspects  {:name \&quot;Mark\&quot; :glitter-index 0})&quot;, :offset 52, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc-in suspects  [:name \&quot;Mark\&quot; :glitter-index 0])&quot;, :offset 52, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc-in suspects  :name \&quot;Mark\&quot; :glitter-index 0)&quot;, :offset 50, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc suspects  :name \&quot;Mark\&quot; :glitter-index 0)&quot;, :offset 47, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc suspects  :name \&quot;Mark\&quot; :glitter-index \&quot;foo\&quot;)&quot;, :offset 51, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc (suspects) :name \&quot;Mark\&quot; :glitter-index \&quot;foo\&quot;)&quot;, :offset 52, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc apply suspects :name \&quot;Mark\&quot; :glitter-index \&quot;foo\&quot;)&quot;, :offset 56, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc (do suspects ) :name \&quot;Mark\&quot; :glitter-index \&quot;foo\&quot;)&quot;, :offset 56, :ns &quot;fwpd.core&quot;} {:command &quot;(assoc (doall suspects) :name \&quot;Mark\&quot; :glitter-index \&quot;foo\&quot;)&quot;, :offset 58, :ns &quot;fwpd.core&quot;} {:command &quot;(type suspects)&quot;, :offset 15, :ns &quot;fwpd.core&quot;} {:command &quot;(apply suspects)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(apply println suspects)&quot;, :offset 24, :ns &quot;fwpd.core&quot;} {:command &quot; (map :name (mapify (parse (slurp filename))))&quot;, :offset 46, :ns &quot;fwpd.core&quot;} {:command &quot;(print names)&quot;, :offset 13, :ns &quot;fwpd.core&quot;} {:command &quot;(apply names)&quot;, :offset 13, :ns &quot;fwpd.core&quot;} {:command &quot;(apply print names)&quot;, :offset 19, :ns &quot;fwpd.core&quot;} {:command &quot;(apply list names)&quot;, :offset 18, :ns &quot;fwpd.core&quot;} {:command &quot;(names-to-list)&quot;, :offset 15, :ns &quot;fwpd.core&quot;} {:command &quot;(suspects)&quot;, :offset 10, :ns &quot;fwpd.core&quot;} {:command &quot;(print suspects)&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(if suspects)&quot;, :offset 13, :ns &quot;fwpd.core&quot;} {:command &quot;(if [suspects] )&quot;, :offset 16, :ns &quot;fwpd.core&quot;} {:command &quot;(if (first suspects))&quot;, :offset 21, :ns &quot;fwpd.core&quot;} {:command &quot;(if (first suspects) (print \&quot;found\&quot;))&quot;, :offset 37, :ns &quot;fwpd.core&quot;} {:command &quot;(if (:name suspects) (print \&quot;found\&quot;))&quot;, :offset 37, :ns &quot;found&quot;} {:command &quot;(if (:name suspects) (print \&quot;found\&quot;) (print \&quot;not found\&quot;))&quot;, :offset 57, :ns &quot;fwpd.core&quot;} {:command &quot;(if (:name (mapify (parse (slurp filename)))) (print \&quot;found\&quot;) (print \&quot;not found\&quot;))&quot;, :offset 82, :ns &quot;fwpd.core&quot;} {:command &quot;(if ((mapify (parse (slurp filename)))) (print \&quot;found\&quot;) (print \&quot;not found\&quot;))&quot;, :offset 76, :ns &quot;fwpd.core&quot;} {:command &quot;(if ((print mapify (parse (slurp filename)))) (print \&quot;found\&quot;) (print \&quot;not found\&quot;))&quot;, :offset 82, :ns &quot;fwpd.core&quot;} {:command &quot;(if ((list mapify (parse (slurp filename)))) (print \&quot;found\&quot;) (print \&quot;not found\&quot;))&quot;, :offset 81, :ns &quot;fwpd.core&quot;} {:command &quot;(list mapify (parse (slurp filename))) &quot;, :offset 38, :ns &quot;fwpd.core&quot;} {:command &quot;(list :name mapify (parse (slurp filename))) &quot;, :offset 45, :ns &quot;fwpd.core&quot;} {:command &quot;(list (map :name (mapify (parse (slurp filename))))) &quot;, :offset 52, :ns &quot;fwpd.core&quot;} {:command &quot;(+ 2 2)&quot;, :offset 6, :ns &quot;fwpd.core&quot;}], :remote []}}</component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -108,7 +160,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Clojure Application.fwpd.core-test">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
     </configuration>
@@ -122,6 +174,26 @@
       <setting name="parameters" value="" />
       <setting name="workingDir" value="$PROJECT_DIR$" />
       <setting name="profiles" value="" />
+    </configuration>
+    <configuration name="core_test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="fwpd" />
+      <setting name="path" value="$PROJECT_DIR$/test/fwpd/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/fwpd" />
+    </configuration>
+    <configuration name="fwpd.core-test" type="ClojureScriptRunConfiguration" factoryName="Clojure Script" temporary="true">
+      <module name="fwpd" />
+      <setting name="path" value="$PROJECT_DIR$/test/fwpd/core_test.clj" />
+      <setting name="namespace" value="" />
+      <setting name="useLein" value="false" />
+      <setting name="profiles" value="" />
+      <setting name="vmparams" value="" />
+      <setting name="params" value="" />
+      <setting name="workDir" value="$PROJECT_DIR$/test/fwpd" />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -161,21 +233,26 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration default="true" type="Remote" factoryName="Remote">
-      <option name="USE_SOCKET_TRANSPORT" value="true" />
-      <option name="SERVER_MODE" value="false" />
-      <option name="SHMEM_ADDRESS" value="javadebug" />
-      <option name="HOST" value="localhost" />
-      <option name="PORT" value="5005" />
-      <method />
-    </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
+    <list>
+      <item itemvalue="Clojure REPL.REPL for fwpd" />
+      <item itemvalue="Clojure Application.core_test" />
+      <item itemvalue="Clojure Application.fwpd.core-test" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Clojure Application.fwpd.core-test" />
+        <item itemvalue="Clojure Application.core_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../fp-in-scala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../fpinscala" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../scala-fpin" value="PREVIEW" />
+      </map>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -189,43 +266,52 @@
       <updated>1525563871968</updated>
       <workItem from="1525563873205" duration="7595000" />
       <workItem from="1525623548205" duration="1507000" />
+      <workItem from="1525747095924" duration="4590000" />
+      <workItem from="1525790596976" duration="2858000" />
+      <workItem from="1525824165362" duration="697000" />
+      <workItem from="1525877278859" duration="605000" />
+      <workItem from="1525881327019" duration="2285000" />
+      <workItem from="1526053301053" duration="407000" />
+      <workItem from="1526485077191" duration="13000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9102000" />
+    <option name="totallyTimeSpent" value="20557000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="-1" width="2560" height="1414" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="0" width="2560" height="1440" extended-state="0" />
     <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="right" x="781" y="64" width="998" height="1291" id="REPL" order="3" side_tool="true" weight="0.4686259" />
+      <window_info anchor="right" id="Leiningen" order="3" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
-      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" order="3" />
-      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="right" x="781" y="64" width="998" height="1291" id="REPL" order="3" side_tool="true" weight="0.3929992" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="right" id="Leiningen" order="3" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32967034" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info id="Capture Tool" order="2" />
-      <window_info id="Designer" order="2" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25179" />
-      <window_info anchor="right" id="Database" order="3" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.112787925" />
       <window_info id="Learn" order="2" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" />
     </layout>
   </component>
@@ -235,11 +321,79 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fwpd/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="42" selection-start-line="42" selection-end-line="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fwpd/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" lean-forward="true" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="39" column="26" selection-start-line="39" selection-start-column="26" selection-end-line="39" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="38" column="21" selection-start-line="38" selection-start-column="21" selection-end-line="38" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -250,12 +404,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="19" lean-forward="true" selection-start-line="30" selection-start-column="19" selection-end-line="30" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="77" selection-start-line="5" selection-start-column="77" selection-end-line="5" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/fwpd/core.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="615">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/fwpd/core_test.clj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" selection-start-line="10" selection-start-column="28" selection-end-line="10" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>fwpd</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectJDKs.UI">
         <settings>
           <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Leiningen: clojure-complete:0.2.4</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
