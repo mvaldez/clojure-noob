@@ -29,11 +29,28 @@
 (defrecord Mexican [first-name last-name]
   Human
   (say-hello [x]
-    (str "hola, me llamo " first-name " " last-name)))
+    (str "hola, mi nombre es " first-name " " last-name)))
 
-(println (say-hello (map->American {:first-name "Joe" :last-name "Smith" :city "Austin"})))
-(println (say-hello (map->Mexican {:first-name "Jose" :last-name "Martinez" :city "Cancun"})))
+(println (say-hello (map->American
+                     {:first-name "Joe"
+                      :last-name "Smith"
+                      :city "Austin"})))
+
+(println (say-hello (map->Mexican
+                     {:first-name "Jose"
+                      :last-name "Martinez"
+                      :city "Cancun"})))
 
 ;; alternate ways of instantiating the record
-(comment (println (say-hello (Mexican.  "Jose"  "Martinez" "Cancun")))) ;; fails with no matching ctor
-(comment (println (say-hello (->Mexican  "Jose"  "Martinez" "Cancun")))) ;; fails wrong number of args
+(comment
+  (println (say-hello (Mexican.  "Jose"  "Martinez" "Cancun")))) ;; fails with no matching ctor
+(comment
+  (println (say-hello (->Mexican  "Jose"  "Martinez" "Cancun")))) ;; fails wrong number of args
+
+;; reify is to defrecord what fn is to defn
+(def donald (reify Human (say-hello [_] (println "Quack!"))))
+(say-hello donald)
+
+;; the goal is to solve "The Expression Problem" that is to have the ability
+;; to seamlessly add new types of data that work with existing functions, and new functions that
+;; work seamlessly with existing data.
